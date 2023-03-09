@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API-REST-BARBERIA.iml" filepath="$PROJECT_DIR$/.idea/API-REST-BARBERIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barberia/barberia.iml" filepath="$PROJECT_DIR$/barberia/barberia.iml" />
+    </modules>
+  </component>
+</project>
